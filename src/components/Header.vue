@@ -4,10 +4,10 @@
   >
     <div>
       <h2 class=" logo">
-        aec startups
+        KULADO INC.
       </h2>
       <p class=" logo-subtitle">
-        <em>shiny startups in the aec space</em>
+        <em>Modern, Rapid, Business Applications</em>
       </p>
     </div>
     <h1 class="mr-2">

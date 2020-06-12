@@ -1,9 +1,9 @@
 <template>
   <div class="footer container-fluid py-4 text-center">
     <p class="muted">
-      <a href="https://twitter.com/gtalarico">Gui Talarico</a>
+      <a href="https://twitter.com/KuladoInc">Kulado Inc.</a>
       <span>|</span>
-      <a href="https://github.com/gtalarico/aec-startups">Contribute</a>
+      <a href="https://github.com/kulado/website">Contribute</a>
     </p>
   </div>
 </template>

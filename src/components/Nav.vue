@@ -28,11 +28,11 @@
     <hr />
     <p class="sidebar-link">
       <!-- <img src="@/assets/imgs/twitter.svg" /> -->
-      <a href="https://twitter.com/aec_startups">Follow @aec_startups</a>
+      <a href="https://twitter.com/KuladoInc">Follow @KuladoInc</a>
     </p>
     <p class="sidebar-link">
       <!-- <img src="@/assets/imgs/github.svg" /> -->
-      <a href="https://github.com/gtalarico/aec-startups">Contibute</a>
+      <a href="https://github.com/kulado/website">Contibute</a>
     </p>
   </div>
 </template>
